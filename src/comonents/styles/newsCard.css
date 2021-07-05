@@ -1,0 +1,8 @@
+.newsCard {
+    position: relative;
+    transition: .3s;
+    border: 1px solid lightgray;
+}
+.newsCard-body {
+    padding: 15px;
+}

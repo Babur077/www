@@ -1,0 +1,34 @@
+.header {
+    background: black;
+    margin-bottom: 10px;
+    box-shadow:  0 5px 20px rgba(0, 0, 0, 0.7);
+    width: 100%;
+}
+
+.header h1{
+    color: #fff;
+    font-size: 40px;
+}
+
+.header nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header  .nav-links_List{
+    display: flex;
+    align-items: center;
+}
+
+.header  .nav-links_List a{
+    display: block;
+    color: #fff;
+    padding: 20px 15px;
+    font-size: 20px;
+}
+
+.header  .nav-links_List a:hover{
+    background: white;
+    color: black;
+}
